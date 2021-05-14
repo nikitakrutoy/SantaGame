@@ -14,4 +14,4 @@ The game loop is simple:
 
 Here is small video with gameloop: https://youtu.be/L-n_yhrzGgM
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/L-n_yhrzGgM/0.jpg)](https://youtu.be/L-n_yhrzGgM)
+[![Video](https://img.youtube.com/vi/L-n_yhrzGgM/0.jpg)](https://youtu.be/L-n_yhrzGgM)
